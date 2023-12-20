@@ -1,0 +1,30 @@
+{
+  "name": "soikawallet-contracts",
+  "version": "1.0.0",
+  "description": "Soika Wallet smart contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/censync/soikawallet-contracts.git"
+  },
+  "keywords": [
+    "cryptowallet",
+    "Soika Wallet"
+  ],
+  "author": "Vadim Kalmykov <vvkalmykovg@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/censync/soikawallet-contracts/issues"
+  },
+  "homepage": "https://github.com/censync/soikawallet-contracts#readme",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.19.3"
+  }
+}
